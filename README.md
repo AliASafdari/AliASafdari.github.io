@@ -1,5 +1,7 @@
 #Welcome to the Bandyopadhyay Lab
+
 [Lab description and research focus]
+
 ## Current Projects
 - List of current research projects and their descriptions.
 ## Team Members
