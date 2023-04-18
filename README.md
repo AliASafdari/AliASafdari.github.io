@@ -1,4 +1,4 @@
-#Welcome to the Bandyopadhyay Lab
+# Welcome to the Bandyopadhyay Lab
 
 [Lab description and research focus]
 
